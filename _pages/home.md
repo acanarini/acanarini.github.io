@@ -55,10 +55,10 @@ Check out my <a href="{{ site.url }}{{ site.baseurl }}/Research" class="text-inf
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1471.jpg" alt="Los Angeles" width="1100" height="500">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1471.JPG" alt="Los Angeles" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1469.jpg" alt="Chicago" width="1100" height="500">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1469.JPG" alt="Chicago" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20220329_MSR.jpg" alt="New York" width="1100" height="500">
