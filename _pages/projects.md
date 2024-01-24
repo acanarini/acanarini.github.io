@@ -18,7 +18,7 @@ I was lucky to be involved in many projects covering a wide range of topics, fro
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<img src="{{ site.url }}{{ site.baseurl }}/images/projects/Climgrass.jpg" class="img-responsive with-shadow" width="35%" style="float: right; margin-right: 15px;margin-top: 15px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/Climgrass.JPG" class="img-responsive with-shadow" width="35%" style="float: right; margin-right: 15px;margin-top: 15px;" />
 <h4><b>ClimGrass</b></h4>
 <h6><b>Grassland carbon dynamics in a changing climate</b></h6>
 <a href="https://raumberg-gumpenstein.at/forschung/institute/pflanzenbau-und-kulturlandschaft/klimafolgenforschung-climgrass.html"><button class="btn btn-primary disabled btn-sm">WEBSITE</button></a>
