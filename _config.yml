@@ -1,0 +1,100 @@
+# Site settings
+title: Alberto Canarini
+email: alberto.canarini@hotmail.it
+description: Academic webpage of Dr. Alberto Canarini
+baseurl: ""
+url: ""
+
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+# google_analytics_4: XXX
+# google_tag_manager: XXX
+
+# Footer info
+affiliation: >
+    Alberto Canarini<br/>
+    University Assistant<br/>
+    Centre for Microbiology and Environmental Systems Science
+
+location: >
+  University of Vienna<br/>
+  Djerisspl. 1<br/>
+  Vienna, Austria 1030
+
+contact: >
+    <a href="mailto:alberto.canarini@hotmail.it" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Alberto via email</a> <br/>
+    <a href="https://github.com/acanarini/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: research
+  - name: projects
+  - name: publications
+  - name: outreach
+  - name: teaching
+
+
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
+
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+plugins: ['jekyll/scholar']
+
+scholar:
+
+  last_name: Canarini
+  first_name: [Alberto]
+
+  style: citesty
+  locale: en
+
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
