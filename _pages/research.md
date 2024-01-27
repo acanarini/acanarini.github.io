@@ -46,13 +46,13 @@ I am particularly focused on extreme events, especially drought, for a number of
 <div class="container">
 <div class="row">
   <div class="col-sm">
-  <img style= "width: 100%; height: 100%" src="{{ site.url }}{{ site.baseurl }}/images/research/Climgrass.jpg" alt="Mister Marbles head tilt">
+  <img style= "width: 100%; height: 100%" src="{{ site.url }}{{ site.baseurl }}/images/research/Climgrass.JPG" alt="Mister Marbles head tilt">
 </div>  
 <div class="col-sm">
   <img style= "width: 100%; height: 100%"  src="{{ site.url }}{{ site.baseurl }}/images/research/Australia.jpg">
 </div>
 <div class="col-sm">
-  <img style= "width: 100%; height: 100%" src="{{ site.url }}{{ site.baseurl }}/images/research/Innsbruck.jpg" alt="Peach posing magestically">  
+  <img style= "width: 100%; height: 100%" src="{{ site.url }}{{ site.baseurl }}/images/research/Innsbruck.JPG" alt="Peach posing magestically">  
 </div> 
 </div>
 Picture of field sites manipulating drought events
@@ -83,7 +83,7 @@ The drought resistance of soil microbial functions depends on the composition of
 <div class="col-md-12 col-sm-12">
 <h4>What do we do?</h4>
 
-The main goal of my research is to understand the effect of changing environmental conditions on fundamental biogeochemical mechanisms that control the fate of important elements in terrestrial ecosystems. The majority of our work is focused on field experiments, but also in controlled settings where we investigate : i) the effects of climate change (drought, warming and elevated atmospheric CO2) on key soil microbial functions (microbial growth and activity, nutrient fluxes); ii) carbon and nutrient exchange between plant and microbe at the rhizosphere; and iii) methodo developments linking chemistry and microbiology.
+The main goal of my research is to understand the effect of changing environmental conditions on fundamental biogeochemical mechanisms that control the fate of important elements in terrestrial ecosystems. The majority of our work is focused on field experiments, but also in controlled settings where we investigate : i) the effects of climate change (drought, warming and elevated atmospheric CO2) on key soil microbial functions (microbial growth and activity, nutrient fluxes); ii) carbon and nutrient exchange between plant and microbe at the rhizosphere; and iii) method developments linking chemistry and microbiology.
 
 We also collaborate on several side projects, and new ideas jump-start in the lab anytime. In the <a href="{{ site.url }}{{ site.baseurl }}/Projects" class="text-info">Projects tab</a> you’ll find a list of present and past project, for which I am/was (Co)-PI or to which I participated as named collaborator. Contact me in case you are interested in having more info! 
 
