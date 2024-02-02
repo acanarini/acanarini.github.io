@@ -1,13 +1,13 @@
 ---
-title: "Tearly report"
+title: "Yearly report"
 layout: textlay
 sitemap: false
 permalink: /yearly_report.html
 ---
 
-# The year in numbers
+# Yearly report
 
-In 2023 I decided to post publicly a summary of my scientific activities. I know that this comes really late and I should have been started much earlier, but the lack of time during my post doc years made it very difficult. I was inspired by many other great scientist and the idea is to use this to benefit both myself, as it bring into focus what I’ve been spending my time, and whoever might be interested in my researching or in pursuing in a career in the same field. Also, since my research is mostly funded with taxpayers money I try to be transparent about it.
+In 2023 I decided to post publicly a summary of my scientific activities. I know that this comes really late and I should have been started much earlier, but the lack of time during my post doc years made it very difficult. I was inspired by many other great scientists and the idea is to use this to benefit both myself, as it bring into focus what I’ve been spending my time, and whoever might be interested in my researching or in pursuing in a career in the same field. Also, since my research is mostly funded with taxpayers money and I try to be transparent about it.
 
 
 ### Years
