@@ -13,10 +13,6 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 ### Years
 - [2024](#2024-annual-report)
 - [2023](#2023-annual-report)
-- [2019](#2019-annual-report)
-- [2018](#2018-annual-report)
-- [2017](#2017-annual-report)
-- [2016](#2016-annual-report)
 
 ### 2024 annual report - in progress
 
@@ -36,7 +32,7 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 
 <div class="jumbotron">
 ## Meetings, Conferences and Presentations. 
-In 2023 I organized and was main convener of the European Geophysical Union (EGU) General Assembly, for the session <a class="text-info">"Responses of soil biota to land use, environmental stress and climate change"</a>. At the same conference I was also the Invited speaker for the session <a class="text-info">"Soils and Climate Change"</a> with a talk on the title <a class="text-info">"Effects of multiple climate change factors and their seasonal variation on the soil microbial community and its functions"</a>. I also presented a poster about the research project I have conducted in Japan and contributed to 4 other presentation, all in the same conference, as well as contribution to talks at 4 more presentations in 2 other international conferences.
+In 2023 I organized and was main convener of the European Geophysical Union (EGU) General Assembly, for the session <em>"Responses of soil biota to land use, environmental stress and climate change"</em>. At the same conference I was also the Invited speaker for the session <a class="text-info">"Soils and Climate Change"</a> with a talk on the title <a class="text-info">"Effects of multiple climate change factors and their seasonal variation on the soil microbial community and its functions"</a>. I also presented a poster about the research project I have conducted in Japan and contributed to 4 other presentation, all in the same conference, as well as contribution to talks at 4 more presentations in 2 other international conferences.
 
 ## Research work (laboratory and field). 
 Co-organizer of a field sampling campaign in Styria (Austria), as part of a large climate change experiment (ClimGrass), lead by Prof. Andreas Richter (Vienna) as well as carried and supervised the laboratory work. Contributed to the planning of a laboratory incubation of samples collected from a long-term warming experiment in Iceland (ForHot). Contributed to the planning of a laboratory incubation of samples collected from deep soil in a tropical forest in Congo. Contributed to sample processing and data analysis of a project regarding drought and warming, led by the University of Hohenheim (Germany). Analysed RNA sequencing data from my project carried in Japan between 2020-2022. Worked on a number of side projects in collaborators with master students and colleagues, including: (i) measuring microbial growth rates in intact soil cores; (ii) effects of nitrogen fertilization on the contribution to soil carbon from microbial necromass.
