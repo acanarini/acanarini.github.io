@@ -1,8 +1,8 @@
 ---
-title: "Teaching phylosophy"
+title: "Tearly report"
 layout: textlay
 sitemap: false
-permalink: /teaching_phy.html
+permalink: /yearly_report.html
 ---
 
 # The year in numbers
