@@ -91,6 +91,12 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
 
+# Display different badges withs stats for your publications
+enable_publication_badges:
+  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
+
+
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -47,6 +47,7 @@ For a full list see <a href="###Refereed journal articles" class="text-info"> be
 
 <div class="col-sm-6 clearfix">
  <div class="well">
+  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-popover="right" data-badge-type="donut" data-condensed="true" data-doi="{{ publi.doi }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div>
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive with-shadow" width="35%" style="float: left; margin-right: 15px;margin-top: 15px;" />
   <p>{{ publi.description }}</p>
