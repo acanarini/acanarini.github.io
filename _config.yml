@@ -96,6 +96,8 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
 
+# Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
+enable_publication_thumbnails: true
 
 exclude:
   - Gemfile
