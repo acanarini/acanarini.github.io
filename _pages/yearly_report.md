@@ -23,6 +23,7 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 ##### Research Grants and Proposals. 
 ##### Papers, Manuscripts and other Reports. 
 ##### Editorial Roles, Reviews and Servicing. 
+Reviewed 1 manuscript for international peer-reviewed journals. Served as Associate Editor for the journal Ecology and Evolution and edited 3 peer-reviewed manuscripts. (Feb 2024)
 ##### Prizes and awards.
 ##### Other Activities. 
  
