@@ -18,15 +18,18 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 
 <div class="jumbotron">
 ##### Meetings, Conferences and Presentations.
+In 2024 I organized at the European Geophysical Union (EGU) General Assembly the session <em>"Soil microbial responses to environmental stress and climate change"</em>. 
 
 ##### Research work (laboratory and field).
+Co-organizer of a field sampling campaign in Styria (Austria), as part of a large climate change experiment (ClimGrass), lead by Prof. Andreas Richter (Vienna) as well as carried and supervised the laboratory work. Analysed several samples for PLFA specific 2H and 13C content for a project in collaboration with Francesca Cotrufo (Colorado State University, USA).
+
 ##### Research Grants and Proposals. 
 ##### Papers, Manuscripts and other Reports. 
 ##### Editorial Roles, Reviews and Servicing. 
 Reviewed 1 manuscript for international peer-reviewed journals. Served as Associate Editor for the journal Ecology and Evolution and edited 3 peer-reviewed manuscripts. (Feb 2024)
 ##### Prizes and awards.
 ##### Other Activities. 
- 
+
 </div>
 
 
@@ -40,7 +43,7 @@ In 2023 I organized and was main convener of the European Geophysical Union (EGU
 Co-organizer of a field sampling campaign in Styria (Austria), as part of a large climate change experiment (ClimGrass), lead by Prof. Andreas Richter (Vienna) as well as carried and supervised the laboratory work. Contributed to the planning of a laboratory incubation of samples collected from a long-term warming experiment in Iceland (ForHot). Contributed to the planning of a laboratory incubation of samples collected from deep soil in a tropical forest in Congo. Contributed to sample processing and data analysis of a project regarding drought and warming, led by the University of Hohenheim (Germany). Analysed RNA sequencing data from my project carried in Japan between 2020-2022. Worked on a number of side projects in collaborators with master students and colleagues, including: (i) measuring microbial growth rates in intact soil cores; (ii) effects of nitrogen fertilization on the contribution to soil carbon from microbial necromass.
 
 ##### Research Grants and Proposals. 
-Awarded an ERC Starting Grant 2023 to the effects of recurrent drought events on soil microbial communities (PI). Wrote two grants applications (FIS 2023 and ERC Starting Grant 2024), which I withdrawn after receiving the news of the ERC 2023. I wrote a report for mz JSPS (Japanese Society for the Promotion of Science) funded project on the role of endophytici fungi in carbon to nitrogen exchange with plants. I applied and won a Tenure Track position at the University of Torino (withdrawn after obtaining the ERC Starting Grant).
+Awarded an ERC Starting Grant 2023 to the effects of recurrent drought events on soil microbial communities (PI). Wrote two grants applications (FIS 2023 and ERC Starting Grant 2024), which I withdrawn after receiving the news of the ERC 2023. I wrote a report for my JSPS (Japanese Society for the Promotion of Science) funded project on the role of endophytici fungi in carbon to nitrogen exchange with plants. I applied and won a Tenure Track position at the University of Torino (withdrawn after obtaining the ERC Starting Grant).
 
 ##### Papers, Manuscripts and other Reports. 
 During 2023 I contributed to 7 published papers, 1 pre-print, 1 book chapter and 4 manuscript in preparation phase. I published two papers as senior author in Soil Biology and Biochemistry, on modelling nitrite in soil and on a methodological advancement in using lipid derived fatty acid from soil microbial biomass. I published a paper on the use of qSIP to measure microbial growth rates affected by climate change, published in Nature Communications (corresponding author). A paper on the effect of fertilization management on soil carbon in sub-saharian Africa published in Global Change Biology (corresponding author). Published a paper on alternative stable states in microbial communities in the journal Microbiome (corresponding author). Published two papers on microbial interactions in Frontiers in Microbiology (corresponding author). Published a book chapter in the reknown Encyclopedia of Soils in the Environment about Climate change impacts on soil biology (first author). Published a pre-preint on drought effects on microbial growth dynamics as well as submitted the manuscript for peer-review (first author).
