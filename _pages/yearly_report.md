@@ -26,7 +26,7 @@ Co-organizer of a field sampling campaign in Styria (Austria), as part of a larg
 ##### Research Grants and Proposals. 
 ##### Papers, Manuscripts and other Reports. 
 ##### Editorial Roles, Reviews and Servicing. 
-Reviewed 1 manuscript for international peer-reviewed journals. Served as Associate Editor for the journal Ecology and Evolution and edited 3 peer-reviewed manuscripts. (Feb 2024)
+Reviewed 2 manuscripts for international peer-reviewed journals. Served as Associate Editor for the journal Ecology and Evolution and edited 3 peer-reviewed manuscripts. (Feb 2024)
 ##### Prizes and awards.
 ##### Other Activities. 
 
