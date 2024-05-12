@@ -97,6 +97,8 @@ For a full list see <a href="###Refereed journal articles" class="text-info"> be
 
 ### Refereed journal articles
 <div class="jumbotron">
+### 2024
+{% bibliography --query @article[year =2024] %}
 ### 2023
 {% bibliography --query @article[year =2023] %}
 ### 2022
