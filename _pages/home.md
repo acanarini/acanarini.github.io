@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Canarini Lab Website - Home"
 layout: homelay
 sitemap: false
 permalink: /
