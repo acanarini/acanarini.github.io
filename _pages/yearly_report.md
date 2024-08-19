@@ -23,12 +23,17 @@ In 2024 I organized at the European Geophysical Union (EGU) General Assembly the
 ##### Research work (laboratory and field).
 Co-organizer of a field sampling campaign in Styria (Austria), as part of a large climate change experiment (ClimGrass), lead by Prof. Andreas Richter (Vienna) as well as carried and supervised the laboratory work. Analysed several samples for PLFA specific 2H and 13C content for a project in collaboration with Francesca Cotrufo (Colorado State University, USA).
 
-##### Research Grants and Proposals. 
-##### Papers, Manuscripts and other Reports. 
+##### Research Grants and Proposals.
+I was awarded the prestigious grant Rita Levi Montalcini for young researchers.This award is given to talented italian young researcher to re-enter the italian academic system based on a competitive evaluation of a project proposal. Unfortunately I have renounced as this award was given after I received an ERC Starting Grant from the European Union. 
+
+##### Papers, Manuscripts and other Reports.
+I contributed to 2 published papers and 4 manuscript in the preparation phase (2 were submitted, with one almost accepted and one desk-rejected). I published two papers as co-author in Geoderma (on ow soil cover shapes organic matter pools and microbial communities in soils of maritime Antarctica) and Global Change Biology (on how N fertilization affect microbial life history strategies).
+
 ##### Editorial Roles, Reviews and Servicing. 
-Reviewed 3 manuscripts for international peer-reviewed journals (Ecology Letters, Nature Climate Change, Nature Communications). Served as Associate Editor for the journal Ecology and Evolution and edited 3 peer-reviewed manuscripts. (March 2024)
+Reviewed 5 manuscripts for international peer-reviewed journals (Ecology Letters, Nature Climate Change, Nature Communications). Served as Associate Editor for the journal Ecology and Evolution and edited 4 peer-reviewed manuscripts. (March 2024)
 ##### Prizes and awards.
 ##### Other Activities. 
+In June I visited my previous laboratory host in Kyoto (Hirokazu Toju), where I gave a seminar and update on their current research status. In august my son was born and I took a long parental leave. I also started to set up my new laboratory in Bologna.
 
 </div>
 
