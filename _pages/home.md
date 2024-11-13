@@ -89,8 +89,8 @@ Check out my <a href="{{ site.url }}{{ site.baseurl }}/Research" class="text-inf
 
 #### Myself
 
-I am currently a University Assistant at the <a href="https://cmess.univie.ac.at/en/" class="text-info">Centre for Microbiology and Environmental Systems Science</a> of the University of Vienna (Austria), working with <a href="https://ter.csb.univie.ac.at/people/andreas-richter" class="text-info">Professor Andreas Richter</a>.
-Previously, I was a JSPS Postdoctoral Fellow at the <a href="https://www.ecology.kyoto-u.ac.jp/en/index.html" class="text-info">Center for Ecological Research</a> of Kyoto University (Japan).
+I am currently an Associate Professo at the <a href="https://www.unibo.it/sitoweb/alberto.canarini2/en" class="text-info">University of Bologna</a> since the 1st of October 2024. Previously I was a University Assistant at the <a href="https://cmess.univie.ac.at/en/" class="text-info">Centre for Microbiology and Environmental Systems Science</a> of the University of Vienna (Austria), working with <a href="https://ter.csb.univie.ac.at/people/andreas-richter" class="text-info">Professor Andreas Richter</a>.
+I held a JSPS Postdoctoral Fellow at the <a href="https://www.ecology.kyoto-u.ac.jp/en/index.html" class="text-info">Center for Ecological Research</a> of Kyoto University (Japan).
 I have a Ph.D in Soil Biogeochemistry from the University of Sydney (Australia, 2017), where I worked with <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/feike-dijkstra.html" class="text-info">Professor Feike Dijkstra</a>.
 I was recently granted an ERC Starting Grant from the European Union, and I will soon start my group at <a href="https://bigea.unibo.it/en/index.html" class="text-info"> The Department of Biological Sciences, Geological and Environmental</a> of the University of Bologna (Italy). I will soon announce position openings on this website.
 
