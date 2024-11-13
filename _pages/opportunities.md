@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
+title: "opportunities"
 layout: gridlay
 sitemap: false
-permalink: /teaching/
+permalink: /opportunities/
 ---
 
 ## Supervision phylosophy
