@@ -34,20 +34,23 @@ Rejecting strict hierarchies, I treat students (or young researchers) as colleag
 ## Post-Doc Opportunities
 
 Job offer at the University of Bologna (Bologna campus)
-Type of contract: Post-doc position
-Duration: 24 months
-Funding: ERC
-Salary: 2053 Euro net/month
-Project: ERC starting grant project on the effects of drought on the soil microbiome, using molecular (for analysis of microbiome composition) and chemical techniques (for measurement of different aspects of microbial activity).
-Announcement deadline: December 5th, 2024 / start of activities March 1st, 2025
-Announcement link: https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68601
-For more info e-mail me at alberto.canarini2@unibo.it
+- Type of contract: Post-doc position
+- Duration: 24 months
+- Funding: ERC
+- Salary: 2053 Euro net/month
+- Project: ERC starting grant project on the effects of drought on the soil microbiome, using molecular (for analysis of microbiome composition) and chemical techniques (for measurement of different aspects of microbial activity).
+- Announcement deadline: December 5th, 2024 / start of activities March 1st, 2025
+- Announcement link: <a href="https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68601" class="text-info">INFO</a>
+- For more info e-mail me at alberto.canarini2@unibo.it
 </div>
 
 <div class="jumbotron">
 ## PhD Opportunities
 
-I will open a PhD position in my project EcoMEMO in 2025 and one in 2026. Details will follow.
+I will open a PhD position in my project EcoMEMO in 2025 and one in 2026.
+In order to apply for the position you will need to enrol in the PhD program at the University of Bologna and go through a competitive selection.
+More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will need to apply by April (usually but check the specific of that year) and you will start on November 1st.
+
 </div>
 
 <div class="jumbotron">
