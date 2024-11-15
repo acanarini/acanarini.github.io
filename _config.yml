@@ -17,13 +17,13 @@ affiliation: >
     Department of Biological, Geological and Evironmental Science - University of Bologna
 
 location: >
-  University of Vienna<br/>
-  Djerisspl. 1<br/>
-  Vienna, Austria 1030
+  University of Bologna<br/>
+  Via Selmi, 3<br/>
+  Bologna, Italy
 
 contact: >
     <a href="mailto:alberto.canarini@hotmail.it" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Alberto via email</a> <br/>
-    <a href="https://github.com/acanarini/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="https://github.com/acanarini/acanarini.github.io"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
