@@ -33,15 +33,9 @@ Rejecting strict hierarchies, I treat students (or young researchers) as colleag
 <div class="jumbotron">
 ## Post-Doc Opportunities
 
-Job offer at the University of Bologna (Bologna campus)
-- Type of contract: Post-doc position
-- Duration: 24 months
-- Funding: ERC
-- Salary: 2053 Euro net/month
-- Project: ERC starting grant project on the effects of drought on the soil microbiome, using molecular (for analysis of microbiome composition) and chemical techniques (for measurement of different aspects of microbial activity).
-- Announcement deadline: December 5th, 2024 / start of activities March 1st, 2025
-- Announcement link: <a href="https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68601" class="text-info">INFO</a>
-- For more info e-mail me at alberto.canarini2@unibo.it
+I will open a Post-Doc position in 2026.
+In the meantime if you are keen to join the team I will support your application for a <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" class="text-info">EMBO Fellowship</a>, to come and work as a post doc within my ERC project EcoMEMO.
+
 </div>
 
 <div class="jumbotron">
