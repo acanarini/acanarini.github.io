@@ -45,7 +45,56 @@ I will open a PhD position in my project EcoMEMO in 2025 and one in 2026.
 In order to apply for the position you will need to enrol in the PhD program at the University of Bologna and go through a competitive selection.
 More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will need to apply by April (usually but check the specific of that year) and you will start on November 1st.
 
-NEWS
+# NEWS
+We’re hiring a PhD student!
+
+Project:Effects of recurrent drought events on soil microbial communities
+
+📍 University of Bologna | ERC-funded | PhD in Ecology / Microbial Ecology
+
+Apply your passion for microbes, ecosystems & climate resilience!
+
+ 
+
+About the Project
+
+Join the ERC-fundedEcoMEMOproject exploring how repeated droughts shape soil microbial communities, their traits, and ecosystem functions. The work combines field experiments, molecular biology, stable isotope tracing, and microbial trait analyses to uncover microbial resilience under climate extremes.
+
+ 
+
+Main Responsibilities
+
+• Conduct soil and plant sampling in field experiments
+
+• Analyze microbial communities (amplicon sequencing, PLFA, enzyme assays)
+
+• Investigate microbial traits and C/N cycling under drought
+
+• Collaborate in data analysis and publication writing
+
+ 
+
+Requirements
+
+✅ MSc in Ecology, Microbial Ecology, Environmental Sciences or related
+
+✅ Experience with molecular or microbial lab work or soil biogeochemistry
+
+✅ Strong interest in soil-plant-microbe interactions
+
+✅ Good teamwork and communication skills (English)
+
+🌍 International applicants welcome
+
+🕒 Position starts: November 2025 / Deadline: 1st July 2025
+
+📩 <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2025-2026/earth-life-and-environmental-sciences" class="text-info">More info & how to apply</a>
+
+ 
+
+Please feel free to send me an email to know more info on the project, the laboratory life or life in Italy.
+
+
 
 </div>
 
