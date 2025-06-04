@@ -45,7 +45,7 @@ I will open a PhD position in my project EcoMEMO in 2025 and one in 2026.
 In order to apply for the position you will need to enrol in the PhD program at the University of Bologna and go through a competitive selection.
 More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will need to apply by April (usually but check the specific of that year) and you will start on November 1st.
 
-# NEWS
+### NEWS
 We’re hiring a PhD student!
 
 Project:Effects of recurrent drought events on soil microbial communities
