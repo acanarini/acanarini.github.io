@@ -1,36 +1,88 @@
-title: MICSO
-description: My very nice blog
-author: "Alberto Canarini"
+title: MICSO – Microbial Integration in Soil Systems
+description: Soil microbial ecology and biogeochemistry lab led by Alberto Canarini at the University of Bologna.
+author: Alberto Canarini
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+# Enable for GitHub Pages
+baseurl: "" # leave empty when using a custom domain
+url: "https://canarinialberto.com"
 
-# Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+# Social links (customize as needed)
+github_username: acanarini
+linkedin_username: alberto-canarini
 rss: rss
 
-# Minima: show excerpts in the frontpage
+# Enable excerpts on homepage
 show_excerpts: true
 
+# Date formatting
 minima:
   date_format: "%Y-%m-%d"
 
-# Minima: custom header links
+# Navigation menu
 header_pages:
-  - _pages/frontpage.md
   - _pages/about.md
-  - _pages/archive.md
+  - _pages/research.md
+  - _pages/projects.md
+  - _pages/publications.md
+  - _pages/outreach.md
+  - _pages/opportunities.md
+  - _pages/teaching.md
 
+# Allow Jekyll to include content from this folder
 include:
-    - _pages
+  - _pages
 
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+# Prevent these files from being processed by Jekyll
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - docker-compose.yml
+title: MICSO – Microbial Integration in Soil Systems
+description: Soil microbial ecology and biogeochemistry lab led by Alberto Canarini at the University of Bologna.
+author: Alberto Canarini
+
+theme: minima
+
+# Enable for GitHub Pages
+baseurl: "" # leave empty when using a custom domain
+url: "https://canarinialberto.com"
+
+# Social links (customize as needed)
+github_username: acanarini
+linkedin_username: alberto-canarini
+rss: rss
+
+# Enable excerpts on homepage
+show_excerpts: true
+
+# Date formatting
+minima:
+  date_format: "%Y-%m-%d"
+
+# Navigation menu
+header_pages:
+  - _pages/about.md
+  - _pages/research.md
+  - _pages/projects.md
+  - _pages/publications.md
+  - _pages/outreach.md
+  - _pages/opportunities.md
+  - _pages/teaching.md
+
+# Allow Jekyll to include content from this folder
+include:
+  - _pages
+
+# Prevent these files from being processed by Jekyll
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - docker-compose.yml
