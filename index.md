@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: MICSO – Microbial Integration in Soil Systems
 ---
 
-Welcome to my academic homepage.
+Welcome to the MICSO Lab! We study microbial processes in soil ecosystems under global change.

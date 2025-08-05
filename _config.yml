@@ -1,15 +1,20 @@
 title: MICSO – Microbial Integration in Soil Systems
-email: your.email@unibo.it
-description: >-
-  Associate Professor at the University of Bologna. Soil microbial ecology, biogeochemistry, and global change.
+email: alberto.canarini@hotmail.it
+description: Soil microbial ecology and biogeochemistry lab
 baseurl: ""
 url: "https://canarinialberto.com"
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
+
 sass:
   style: compressed
 
 minima:
   skin: custom
+
+theme: minima
+
+plugins: []
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
