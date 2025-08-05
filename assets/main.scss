@@ -23,3 +23,16 @@ a:hover {
   background-color: #F0F0ED;
   border-top: 4px solid #2D6B2B;
 }
+
+/* ========== MICSO Header Logo ========== */
+.site-title::before {
+  content: "";
+  display: inline-block;
+  background-image: url("/assets/images/micso-logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
