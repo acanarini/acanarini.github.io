@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+/* MICSO custom styles */
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #FAFAF7;
+  color: #2D6B2B;
+}
+
+a {
+  color: #2D6B2B;
+}
+
+a:hover {
+  color: #7DB659;
+}
+
+.site-header, .site-footer {
+  background-color: #F0F0ED;
+  border-top: 4px solid #2D6B2B;
+}
