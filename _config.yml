@@ -1,0 +1,10 @@
+title: Alberto Canarini
+email: your.email@unibo.it
+description: >-
+  Associate Professor at the University of Bologna. Soil microbial ecology, biogeochemistry, and global change.
+baseurl: ""
+url: "https://canarinialberto.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
