@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-layout: gridlay
 permalink: /about/
 ---
 
