@@ -1,0 +1,45 @@
+- title: "<h6>Quantifying microbial growth and carbon use efficiency in dry soil environments via 18O water vapor equilibration</h6>"
+  image: GCB_fig.png
+  description: We developed a unique method that allows for the first time to introduce stable isotope in soil without direct water addition. This has generated enourmous developments for measuring microbial growth in soil, from application to drought studies to intact soil cores, from community level measurements to taxa specific growth rates.
+  authors: Canarini A., Wanek W., Watzka M., Sandén T., Spiegel H., Šantrůček J. and Schnecker J.
+  doi: 10.1111/gcb.15168
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15168
+    display:  Global Change Biology 26(9), 5333–5341 (2020)
+  highlight: 1
+  news2:
+
+
+- title: "<h6>Ecological memory of recurrent drought modifies soil processes via changes in soil microbial community</h6>"
+  image: EcoMemo_fig.png
+  description: We discovered that soil microbial community composition changes in concert with its functioning, with consequences for soil processes. The formation of ecological memory in soil under recurrent drought may enhance the resilience of ecosystem functioning against future drought events.
+  authors: Canarini A., Schmidt H., Fuchslueger L., Martin V., Herbold C. W., Zezula D., Gündler P., Hasibeder R., Jecmenica M., Bahn M., and Richter A.
+  doi: 10.1038/s41467-021-25675-4
+  link:
+    url: https://www-nature-com.uaccess.univie.ac.at/articles/s41467-021-25675-4
+    display:  Nature Communications, 12(1), 5308 (2021)
+  highlight: 1
+  news2:
+
+- title: "<h6>Microbial growth under drought is confined to distinct taxa and modified by potential future climate conditions</h6>"
+  image: Denn_fig.png
+  description: We applied the vapor equilibration method in combination with the qSIP to obtain taxa-specific growth rates. We found that during drought fewer taxa grow but they sustain high growth rates, and that future climate conditions (higher temperatures and atmospheric CO2) modified these taxa.
+  authors: Metze D., Schnecker J., Canarini A., Fuchslueger L., Koch B. J., Stone B. W., Hungate B. A., Hausmann B., Schmidt H., Schaumberger A., Bahn M., Kaiser C., and Richter A.
+  doi: 10.1038/s41467-023-41524-y
+  link:
+    url: https://doi.org/10.1038/s41467-023-41524-y
+    display:  Nature Communications, 14(1), 1–12 (2023)
+  highlight: 1
+  news2:
+
+
+- title: "<h6>Soil fungi remain active and invest in storage compounds during drought independent of future climate conditions</h6>"
+  image: NatComm24.png
+  description: We trace 2H or 18O applied via water-vapor exchange into membrane (and storage) fatty acids or DNA, respectively, to assess community- and group-level adjustments in soil microbial physiology (replication, storage product synthesis, and carbon use efficiency). We show that, while bacterial growth decreases by half during drought, fungal growth remains stable, demonstrating a remarkable resistance against soil moisture changes. In addition, fungal investment into storage triglycerides increases more than five-fold under drought.
+  authors: Canarini A., Fuchslueger L., Schnecker J., Metze D., Nelson D., Kahmen A., Watzka M., Pötsch E., Schaumberger A., Bahn M. and Richter A.
+  doi: 10.1038/s41467-024-54537-y
+  link:
+    url: https://doi.org/10.1038/s41467-024-54537-y
+    display:  Nature Communications, 15, 10410 (2024) 
+  highlight: 1
+  news2:
