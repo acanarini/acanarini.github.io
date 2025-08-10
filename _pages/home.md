@@ -12,7 +12,7 @@ code {padding: 6px 8px; font-size: 90%;}
 # Welcome!
 
 <br/>
-#### My Research
+#### My Research Overview
 
 My research lies at the interface between microbial ecology and soil biogeochemistry, focusing broadly on the response of soil microbes to climate change. The main goal of my research is to understand the effect of changing environmental conditions on fundamental biogeochemical mechanisms that control the fate of important elements in terrestrial ecosystems in which microbes are involved, with an emphasis on the carbon cycling. Soil microbes are central as they control key processes regulating the cycling of elements.
 I use a blend of discipline, integrating chemistry, biology and ecology. My research is divided between method development, field studies as well as synthesis via large datasets or modelling approaches. Recent examples of methodological innovations include the development of a  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15168" class="text-info">new method to trace microbial growth in soil</a> or   <a href="https://www-sciencedirect-com.uaccess.univie.ac.at/science/article/pii/S0038071723002675" class="text-info">for studying microbial lipids via fatty acid analysis</a>.
