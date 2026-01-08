@@ -1,11 +1,12 @@
 - name: Dr. Alberto Canarini
-  photo: headshot.jpg
-  info: University Assistant, Centre for Microbiology and Environmental Systems Science, University of Vienna
-  email: alberto.canarini@univie.ac.at
+  photo: Alberto.jpg
+  info: Associate Professor, Department of Biological, Geological and Environmental Sciences, University of Bologna. The main goal of my research is to understand the effect of changing environmental conditions on fundamental biogeochemical mechanisms that control the fate of important elements in terrestrial ecosystems in which microbes are involved, with an emphasis on the carbon cycling.
+  email: alberto.canarini2@unibo.it
   github: https://github.com/acanarini
   researchgate: https://www.researchgate.net/profile/Alberto-Canarini?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
   scholar: https://scholar.google.com/citations?hl=en&user=1NMOvPwAAAAJ
   cv: cv.pdf
+  orcid: 0000-0003-2516-5955
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 3
   education1: "(2017) Ph.D. Soil Biogeochemistry, the University of Sydney (Australia)"

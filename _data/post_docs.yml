@@ -1,0 +1,14 @@
+- name: Arun Kumar Devarajan
+  photo: Arun.png
+  info: Postdoc, started July 2025. My research interests focus on understanding how climate change and environmental stressors regulate microbial responses and their feedbacks to ecosystem processes. My PhD research investigated how warming magnitude and duration alter bacterial community structure and nitrogen cycling potential. Currently, as a postdoctoral researcher in the ERC project EcoMEMO at the University of Bologna, I study how precipitation history shapes soil microbial drought responses and their biogeochemical cycling potential in Mediterranean ecosystems.
+  email: arunkumar.devarajan@unibo.it
+  github:
+  researchgate: https://www.researchgate.net/profile/Arun_Kumar_D3
+  scholar: https://scholar.google.com/citations?user=ByobMrUAAAAJ&hl=en
+  cv:
+  website: https://arunhub.in/
+  orcid: 0000-0001-9260-5426
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 2
+  education1: "(2024) Ph.D. Microbiology, University of Tartu (Estonia)"
+  education2: "(2019) M.S. Agricultural Microbiology, Tamil Nadu Agricultural University (India)"

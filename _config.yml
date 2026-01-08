@@ -1,7 +1,7 @@
 # Site settings
-title: Alberto Canarini
+title: MICSO lab
 email: alberto.canarini@hotmail.it
-description: Academic webpage of Dr. Alberto Canarini
+description: Academic webpage of Dr. Alberto Canarini's MICSO lab
 baseurl: ""
 url: ""
 
@@ -27,7 +27,7 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
+  - name: team
   - name: research
   - name: projects
   - name: publications

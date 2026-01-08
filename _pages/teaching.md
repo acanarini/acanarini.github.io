@@ -27,6 +27,15 @@ My teaching philosophy has developed from my personal and professional experienc
 }
 </style>
 
+
+<div class="jumbotron">
+## Current courses
+
+* Microbes and Climate Change (Since 2025) University of Bologna, International Master course
+* Soil Biology and Global Changes (Since 2025) University of Bologna, International Bachelor course
+
+</div>
+
 <div class="jumbotron">
 ## Past courses
 

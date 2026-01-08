@@ -11,3 +11,10 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 // @import "bootstrap_customization";
 @import "bootstrap";
 @import "SHB_css";
+
+.profile-links {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+- name: Wout Yi Moe Oo
+  photo: Woutyi.jpg
+  info: PhD, started Nov 2025. My research focuses on how extreme drought affects soil microbial community structures and functions, and soil ecosystem process. 
+  email: woutyi.moeoo2@unibo.it
+  website: https://www.unibo.it/sitoweb/woutyi.moeoo2
+  number_educ: 1
+  education1: "(2024) Master of Science in Desert Studies , Ben-Gurion University of the Negev (Israel)"
+
+- name: Yaqiang Zuo
+  photo: Yaqiang.jpg
+  info: CSC PhD student, started Nov 2025. My Research  seeks to understand how environmental change shapes microbial communities and their functions. I combine amplicon sequencing and metagenomic approaches to link taxonomic structure with functional potential.
+  email: yaqiang.zuo2@unibo.it
+  website: https://www.unibo.it/sitoweb/yaqiang.zuo2
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 1
+  education1: "(2023) Master degree in Marine Biology, the University of Pisa and Zhejiang Ocean University (Italy-China)"
+

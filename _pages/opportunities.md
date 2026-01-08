@@ -41,64 +41,12 @@ In the meantime if you are keen to join the team I will support your application
 <div class="jumbotron">
 ## PhD Opportunities
 
-I will open a PhD position in my project EcoMEMO in 2025 and one in 2026.
+I will open a PhD position in my project EcoMEMO in 2026.
 In order to apply for the position you will need to enrol in the PhD program at the University of Bologna and go through a competitive selection.
 More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will need to apply by April (usually but check the specific of that year) and you will start on November 1st.
-
-### NEWS
-We’re hiring a PhD student!
-
-Project:Effects of recurrent drought events on soil microbial communities
-
-📍 University of Bologna | ERC-funded | PhD in Ecology / Microbial Ecology
-
-Apply your passion for microbes, ecosystems & climate resilience!
-
- 
-
-About the Project
-
-Join the ERC-fundedEcoMEMOproject exploring how repeated droughts shape soil microbial communities, their traits, and ecosystem functions. The work combines field experiments, molecular biology, stable isotope tracing, and microbial trait analyses to uncover microbial resilience under climate extremes.
-
- 
-
-Main Responsibilities
-
-• Conduct soil and plant sampling in field experiments
-
-• Analyze microbial communities (amplicon sequencing, PLFA, enzyme assays)
-
-• Investigate microbial traits and C/N cycling under drought
-
-• Collaborate in data analysis and publication writing
-
- 
-
-Requirements
-
-✅ MSc in Ecology, Microbial Ecology, Environmental Sciences or related
-
-✅ Experience with molecular or microbial lab work or soil biogeochemistry
-
-✅ Strong interest in soil-plant-microbe interactions
-
-✅ Good teamwork and communication skills (English)
-
-🌍 International applicants welcome
-
-🕒 Position starts: November 2025 / Deadline: 1st July 2025
-
-📩 <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2025-2026/earth-life-and-environmental-sciences" class="text-info">More info & how to apply</a>
-
- 
-
-Please feel free to send me an email to know more info on the project, the laboratory life or life in Italy.
+Alternatively you could find support from other institution, such as the China Scholarship Council, which every year fund PhD position for Chinese students. More info <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/phd-programmes-funded-by-the-china-scholarship-council" class="text-info">HERE</a>
 
 
-
-</div>
-
-<div class="jumbotron">
 ## Master project and/or thesis supervision
 
 I am happy to speak with prospective MS students at the University of Bologna about undertaking an MS project or thesis under my supervision. If you are seeking guidance or project ideas, feel free to email me to arrange a meeting.
@@ -112,6 +60,7 @@ I am always eager to support doctoral and postdoctoral fellowship applications, 
 - Young Researcher 2024 (Italian ministry funded)
 - MSCA Seal of Excellence
 - Career Development Award of the Giovanni Armenise Harvard Foundation
+- Human Frontiers Science Post Doc Fellowship
 
 
 Contact me for further details.

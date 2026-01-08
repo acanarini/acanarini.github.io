@@ -11,10 +11,37 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 
 
 ### Years
+- [2025](#2025-annual-report)
 - [2024](#2024-annual-report)
 - [2023](#2023-annual-report)
 
-### 2024 annual report - in progress
+### 2025 annual report
+
+<div class="jumbotron">
+##### Meetings, Conferences and Presentations.
+In 2025 I co-convened at the European Geophysical Union (EGU) General Assembly the session <em>"Soil microbial physiology, carbon and nutrient cycling, and responses to Global change"</em>. I started organizing a session at the EGU26 called <em>"Microbial responses to global change: from physiology to ecosystem feedbacks "</em> together with the same collaborators from Austria, Germany and The Netherlands. I also organized a session at The 23rd World Congress of Soil Science in Nanjing (China) called <em>"Soil microbial life and death: impacts on soil organic carbon dynamics under global change"</em> together with colleagues from Germany and China. I was invited to present my research at the department of agriculture in Bologna, at the University of Torino, at the University of Parma, at the University of Camerino as well as at the University of Udine, all collaborators of my ERC project. 
+
+##### Research work (laboratory and field).
+I have organized a laboratory incubation as well as organized and managed directly six field experiments for the EcoMEMO project, as well as all the analyses that followed. I also guided laboratory analysis and data analysis for a Master student in Vienna (Lisa). I lead and taught the PLFA analysis to a visiting PhD student from Spain on a project on Mediterranean soils. I set up numerous protocols, including ones for ddPCR and P analyses, together with Master students.
+
+##### Research Grants and Proposals.
+I have submitted a project from MAECI (Ministry for Foreign affairs and International Cooperation) for a grant between China and Italy, as PI of the Italian side of the project. I have also submitted a proposal for the Embo Fellowship, an Estonian Grant and a Human Frontiers science Project Post doc Fellowship, all with one specific researchers, but they were all rejected. We also submitted 3 Marie Curie grant with 3 different researcher and supported the submission for a Rita Levi Montalcini. I submitted as supervisor a grant for the China Scholarship Council and got funded for a fully funded PhD student.
+
+##### Papers, Manuscripts and other Reports.
+I contributed to 3 published papers (2 in SBB and 1 in GCB) and 1 manuscript lead by me and submitted to Journal of Ecology, as well as helping in the preparation of another.
+
+##### Editorial Roles, Reviews and Servicing. 
+Reviewed 2 manuscripts for international peer-reviewed journals (Ecology Letters, Nature Communications). Served as Associate Editor for the journal Ecology and Evolution and edited 4 peer-reviewed manuscripts.
+
+##### Prizes and awards.
+##### Other Activities. 
+I finished to set up our laboratory, which officially started operating since May. In November I was asked to be the opponent for a PhD of Stefano Manzoni in Sweden. I did such a role as well as visited his department and met with Edith Hammer, Katharina Keiblinger and Paul Kardol. I have started supervising 2 PhD student (Wout Yi and Yaqiang), 2 master students (Angela and Tommaso) and 3 Bachelor students (Rebecca, Ada and Sedef). Rebecca graduated in November. I started hosting 2 visiting PhD student (Yao and Maria).
+
+</div>
+
+
+
+### 2024 annual report
 
 <div class="jumbotron">
 ##### Meetings, Conferences and Presentations.
