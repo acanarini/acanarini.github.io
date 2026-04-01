@@ -7,5 +7,12 @@
   education1: "(2020) M.S. Sichuan Agricultural University & Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and Ministry of Water Resources (CAS) (China)"
 
   
-
+- name: Haiguang Pu
+  photo: Haiguang.jpg
+  info: Visiting Ph.D. started March 2026. I am interested in exploring soil carbon cycle responses to climate change by characterizing microbial communities and their functional genes, and identifying regional feedback hotspots via spatial mapping.
+  email: puhaiguang20@mails.ucas.ac.cn
+# Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 2
+  education1: "(2023) M.S. Northeast Institue of Geography and Agroecology, Chinese Academy of Science (CAS) (China)"
+education2: "(2024-) PhD  Institue of Geographic Sciences and Natural Resources Research,  Chinese Academy of Science (CAS) (China)"
 
