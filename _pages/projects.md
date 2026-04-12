@@ -22,7 +22,7 @@ I was lucky to be involved in many projects covering a wide range of topics, fro
 <img src="{{ site.url }}{{ site.baseurl }}/images/projects/EcoMEMO.jpg" class="img-responsive with-shadow" width="35%" style="float: right; margin-right: 15px;margin-top: 15px;" />
 <h4><b>EcoMEMO</b></h4>
 <h6><b>Ecological memory of extreme drought events in soil microbial communities</b></h6>
-<a href="https://www.unibo.it/en/research/projects-and-initiatives/horizon-europe/582/676/18153"><button class="btn btn-primary disabled btn-sm">WEBSITE</button></a>
+<a href="https://site.unibo.it/ecomemo/en"><button class="btn btn-primary disabled btn-sm">WEBSITE</button></a>
 <a href="https://cordis.europa.eu/project/id/101115960" target="_blank"><button class="btn btn-info disabled btn-sm">PAPER</button></a> 
 
 <b>Main participants:</b>
@@ -77,7 +77,7 @@ I have been collaborating to this project investigating the role of microorganis
 
 <b>Main participants:</b>
 <i>Andreas Richter  (PI), Christina Kaiser (Collaborator), Alberto Canarini (Collaborator) and many others</i>
-
+<a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70969" target="_blank"><button class="btn btn-info disabled btn-sm">PAPER</button></a> 
 In this project we used a unique experiment manipulating multiple fertilization level (N, P, K and manure) spanning 70 years. In this project we investigate the effects of such long-term nutrient fertilization on the microbial community and nutrient cycling. See in the buttons above two abstract presented from a PhD student (Kian Jenab) working on the arbuscular mycorrhizae part of the project.
 
 <h4><b>ForHot grassland warming</b></h4>
