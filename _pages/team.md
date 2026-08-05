@@ -9,35 +9,33 @@ permalink: /team/
 
  **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
 
-<div class="team-photo-carousel" id="team-photo-carousel" aria-label="MICSO Lab team photographs" aria-roledescription="carousel">
-  <div class="team-carousel-stage">
-    <figure class="team-carousel-slide is-active" aria-hidden="false">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/Team_2025.jpg" alt="MICSO Lab team in 2025">
-      <figcaption>MICSO Lab team, 2025</figcaption>
-    </figure>
-    <figure class="team-carousel-slide" aria-hidden="true">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/malga-coot-2026.jpg" alt="MICSO Lab field team at Malga Coot in 2026">
-      <figcaption>Malga Coot, 2026</figcaption>
-    </figure>
-    <figure class="team-carousel-slide" aria-hidden="true">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/passo-gavia-2026.jpg" alt="MICSO Lab field team at Passo Gavia in 2026">
-      <figcaption>Passo Gavia, 2026</figcaption>
-    </figure>
-    <figure class="team-carousel-slide" aria-hidden="true">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/team-building-2026.jpg" alt="MICSO Lab at a team-building event in 2026">
-      <figcaption>Team building, 2026</figcaption>
-    </figure>
-
-    <button class="team-carousel-control team-carousel-previous" type="button" aria-label="Previous team photograph">&#10094;</button>
-    <button class="team-carousel-control team-carousel-next" type="button" aria-label="Next team photograph">&#10095;</button>
-  </div>
-
-  <div class="team-carousel-dots" aria-label="Choose a team photograph">
-    <button class="is-active" type="button" aria-label="Show photograph 1" aria-current="true"></button>
-    <button type="button" aria-label="Show photograph 2"></button>
-    <button type="button" aria-label="Show photograph 3"></button>
-    <button type="button" aria-label="Show photograph 4"></button>
-  </div>
+<div class="team-photo-carousel" id="team-photo-carousel" aria-label="MICSO Lab team photographs" aria-roledescription="carousel" markdown="0">
+<div class="team-carousel-stage">
+<figure class="team-carousel-slide is-active" aria-hidden="false">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Team_2025.jpg" alt="MICSO Lab team in 2025">
+<figcaption>MICSO Lab team, 2025</figcaption>
+</figure>
+<figure class="team-carousel-slide" aria-hidden="true">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/malga-coot-2026.jpg" alt="MICSO Lab field team at Malga Coot in 2026">
+<figcaption>Malga Coot, 2026</figcaption>
+</figure>
+<figure class="team-carousel-slide" aria-hidden="true">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/passo-gavia-2026.jpg" alt="MICSO Lab field team at Passo Gavia in 2026">
+<figcaption>Passo Gavia, 2026</figcaption>
+</figure>
+<figure class="team-carousel-slide" aria-hidden="true">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team-carousel/team-building-2026.jpg" alt="MICSO Lab at a team-building event in 2026">
+<figcaption>Team building, 2026</figcaption>
+</figure>
+<button class="team-carousel-control team-carousel-previous" type="button" aria-label="Previous team photograph">&#10094;</button>
+<button class="team-carousel-control team-carousel-next" type="button" aria-label="Next team photograph">&#10095;</button>
+</div>
+<div class="team-carousel-dots" aria-label="Choose a team photograph">
+<button class="is-active" type="button" aria-label="Show photograph 1" aria-current="true"></button>
+<button type="button" aria-label="Show photograph 2"></button>
+<button type="button" aria-label="Show photograph 3"></button>
+<button type="button" aria-label="Show photograph 4"></button>
+</div>
 </div>
 
 <style>
