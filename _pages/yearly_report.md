@@ -11,9 +11,44 @@ In 2023 I decided to post publicly a summary of my scientific activities. I know
 
 
 ### Years
+- [2026](#2026-annual-report)
 - [2025](#2025-annual-report)
 - [2024](#2024-annual-report)
 - [2023](#2023-annual-report)
+
+### 2026 annual report
+
+<div class="jumbotron">
+##### Meetings, Conferences and Presentations.
+
+In 2026, I convened the session <em>“Microbial responses to global change: from physiology to ecosystem feedbacks”</em> at the European Geosciences Union (EGU) General Assembly, together with collaborators from Austria, Germany and the Netherlands. I also co-convened the session <em>“Soil microbial life and death: impacts on soil organic carbon dynamics under global change”</em> at the 23rd World Congress of Soil Science in Nanjing, China, together with colleagues from Germany and China. I was also invited to present my research at the Department of Agricultural and Food Sciences and the Department of Pharmacy and Biotechnology (FaBiT) at the University of Bologna.
+
+##### Research work (laboratory and field).
+
+I designed and coordinated a laboratory incubation and directly managed six field experiments for the EcoMEMO project, together with the subsequent laboratory analyses. I also supervised the field and laboratory experiments of a PhD student whom I co-supervise with Rossella Guerrieri within a Marie Skłodowska-Curie Doctoral Network. I provided training in phospholipid fatty acid (PLFA) analysis to a visiting PhD student from the Department of Agricultural and Food Sciences (DISTAL). Together with my students, I established several new laboratory protocols, including methods for ddPCR and phosphorus analyses. We also established a complete protocol for PLFA analysis in our laboratory in Bologna.
+
+##### Research Grants and Proposals.
+
+The bilateral Italy–China project that I submitted in 2025 to the Italian Ministry of Foreign Affairs and International Cooperation (MAECI), as Principal Investigator of the Italian side, was not funded. Of the three MSCA applications submitted in 2025, one was approved and two were unsuccessful. We are also preparing two new MSCA proposals with two different researchers for submission in September 2026.
+
+I submitted two applications as supervisor through the China Scholarship Council, both of which were successful, resulting in funding for two PhD students. Together with other Italian collaborators, we submitted a PRIN proposal. We also began developing a project idea for the Human Frontier Science Program.
+
+##### Papers, Manuscripts and other Reports.
+
+I contributed to one paper published in <em>New Phytologist</em> and led a paper published in the <em>Journal of Ecology</em>. Several additional manuscripts are currently in preparation, arising both from research conducted by my group and from collaborations with external colleagues.
+
+##### Editorial Roles, Reviews and Servicing.
+
+I reviewed three manuscripts for international peer-reviewed journals: <em>Soil Biology and Biochemistry</em>, <em>Nature Communications</em> and <em>Global Change Biology</em>. I continued serving as an Associate Editor for <em>Ecology and Evolution</em>, handling five peer-reviewed manuscripts.
+
+##### Prizes and awards.
+
+##### Other Activities.
+
+I began supervising three PhD students—Anna, Shenghao and Hui—and one Bachelor’s student, Sofia. Two Bachelor’s students whom I supervised, Ada and Sedef, are expected to graduate in October. I also began hosting one visiting PhD student and one postdoctoral researcher, Lingxu and Elisa. In addition, I started planning a research visit for my collaborator Jiqiong from China.
+
+</div>
+
 
 ### 2025 annual report
 
