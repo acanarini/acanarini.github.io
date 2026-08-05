@@ -41,10 +41,9 @@ In the meantime if you are keen to join the team I will support your application
 <div class="jumbotron">
 ## PhD Opportunities
 
-I will open a PhD position in my project EcoMEMO in 2026.
-In order to apply for the position you will need to enrol in the PhD program at the University of Bologna and go through a competitive selection.
-More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will need to apply by April (usually but check the specific of that year) and you will start on November 1st.
-Alternatively you could find support from other institution, such as the China Scholarship Council, which every year fund PhD position for Chinese students. More info <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/phd-programmes-funded-by-the-china-scholarship-council" class="text-info">HERE</a>
+The PhD positions for 2026 have already been filled. There may be another opportunity in 2027, depending on funding availability. Please keep an eye on my website and social media.
+More information about enrolling in a PhD programme at the University of Bologna can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/information-enrolling-phd-programme" class="text-info">HERE</a>. You will usually need to apply by May or June (please check the specific deadline for that year), and the position will start on November 1st.
+Alternatively, you could seek support from other institutions, such as the China Scholarship Council, which funds PhD positions for Chinese students every year. More information can be found <a href="https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/phd-programmes-funded-by-the-china-scholarship-council" class="text-info">HERE</a>. If you apply through the cooperation channel, please remember to contact me early, as the application deadline is in January each year.
 
 
 ## Master project and/or thesis supervision
