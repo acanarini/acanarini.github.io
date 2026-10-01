@@ -532,18 +532,18 @@ permalink: /team/
 
 
 
-## Alumni
+<a id="alumni"></a>
+## Former Members
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign column_position = number_printed | modulo: 3 %}
 
-{% if even_odd == 0 %}
+{% if column_position == 0 %}
 <div class="row">
 {% endif %}
-
 
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
@@ -554,17 +554,13 @@ permalink: /team/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if column_position == 2 %}
 </div>
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% assign remaining_columns = number_printed | modulo: 3 %}
+{% unless remaining_columns == 0 %}
 </div>
-{% endif %}
+{% endunless %}
 </div>
-
-
-
-
