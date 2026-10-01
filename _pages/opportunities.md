@@ -33,8 +33,15 @@ Rejecting strict hierarchies, I treat students (or young researchers) as colleag
 <div class="jumbotron">
 ## Post-Doc Opportunities
 
-I will open a Post-Doc position in 2026.
-In the meantime if you are keen to join the team I will support your application for a <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" class="text-info">EMBO Fellowship</a>, to come and work as a post doc within my ERC project EcoMEMO.
+A 24-month postdoctoral position funded by the ERC Starting Grant EcoMEMO is expected to open on 28 October 2026, with a preferred start in early 2027 at the University of Bologna.
+
+The project will focus on field experiments investigating microbial drought memory and quantifying active soil microorganisms by combining stable-isotope, biogeochemical and molecular approaches. The successful candidate will also have opportunities to develop complementary research ideas.
+
+Applicants should hold a PhD in soil microbial ecology, soil biogeochemistry or a related discipline. Relevant methodological experience and a driving licence are desirable. The annual salary will be €39,224 gross.
+
+The call is expected to remain open for approximately 15 days and will be published on the <a href="https://bandi.unibo.it/ricerca/contratti-ricerca" class="text-info">University of Bologna application portal</a>. Informal enquiries are welcome.
+
+I am also happy to support applications for independent postdoctoral fellowships, including <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" class="text-info">EMBO Postdoctoral Fellowships</a>, for researchers interested in joining the MICSO Lab.
 
 </div>
 
